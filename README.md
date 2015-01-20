@@ -1,5 +1,5 @@
-#frontendDevelopers
-Slack frontend developer community project.
+#backendDevelopers
+Slack backend developer community project.
 
 ## Requirements
 
